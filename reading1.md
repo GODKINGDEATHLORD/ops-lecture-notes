@@ -1,4 +1,4 @@
-# Nicks Ops Reading Notes
+# Nick's Ops Reading Notes
 
 ## Ops Readings 
 
